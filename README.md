@@ -17,7 +17,11 @@
 
 - 👨‍💻 Currently at **Chandigarh University – ERP Web Dev Team**
 - 🧑‍💻 Formerly at **Classic Informatics**
-- 💌 Reach me at: `saurabh0101906@gmail.com`
+- 💌 Reach me at: `saurabh0101906@gmail.com` || **7291089688**
+- ✌️ Portfolio : https://harmonious-llama-0bcd0f.netlify.app/
+- 😎 Best Project : https://cuintranet.in || ProductionCMS
+- 🔍 Movie Ratting App : https://j56ltz.csb.app/
+- 🤩 Disney+Hotstar : https://disneyplus-clone-1f559.web.app/
 
 ---
 
