@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/saurabh-singh-cu/saurabh-singh-cu/blob/main/header.png" alt="Saurabh Kumar Singh" />
+  <img src="https://github.com/saurabh-singh-cu/saurabh-singh-cu/header.png" alt="Saurabh Kumar Singh" />
 </div>
 
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Saurabh Kumar Singh</h1>
